@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "image": "smoked_salmon_burger.jpg",
+      "title": "Smoked salmon burger",
+      "time": "20 min",
+      "servings": 6,
+      "calories": 210,
+      "difficulty": "Easy"
+    },
+    {
+      "id": 2,
+      "image": "tomatoes_with_creamy_feta.jpg",
+      "title": "Tomatoes With Creamy Feta",
+      "time": "15 min",
+      "servings": 3,
+      "calories": 600,
+      "difficulty": "Easy"
+    },
+    {
+      "id": 3,
+      "image": "spicy_potato_salad.jpg",
+      "title": "Spicy potato salad",
+      "time": "30 min",
+      "servings": 2,
+      "calories": 320,
+      "difficulty": "Medium"
+    },
+    {
+      "id": 4,
+      "image": "chicken_biryani.jpg",
+      "title": "Chicken Biryani",
+      "time": "40 min",
+      "servings": 4,
+      "calories": 700,
+      "difficulty": "Hard"
+    }
+]  
